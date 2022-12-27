@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "lib": ["es5", "es6", "dom"],
+    "target": "es5",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "strict": true,
+    "alwaysStrict": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true
+  },
+  "exclude": ["node_modules"],
+  "include": ["src/"]
+}
